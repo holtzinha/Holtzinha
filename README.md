@@ -1,12 +1,12 @@
 ### Olá! Eu sou a Gisele Andrade
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: gisele_godinho@hotmail.com
-- 😄 Pronouns: She/her
+- 💻 Estudante de Engenharia de Software | 🎨 Entusiasta de UX Design | 📊 Apaixonada por Dados
+- 🌱 Atualmente estou aprendendo Java
+- 🚀 Focada em criar soluções que combinam experiência do usuário, desenvolvimento de software e análise de dados. 
+- 🔍 Em busca de estágio para aplicar meus conhecimentos em UX Design, desenvolvimento back-end, dados e programação.
+- 🌱 Curiosa por tecnologias inovadoras e soluções criativas para desafios no mundo digital.
+- 📚 Estudando na Uniamérica e focada em cursos de desenvolvimento de software, UX Design e dados.
+- 📫 Contato: gisele_godinho@hotmail.com
 - ⚡ Fun fact: I have pink hair
 
  <div>
